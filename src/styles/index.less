@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --text-color: #282B38;
+  --background: #F6F8FB;
+  --color-bg-button-primary: #2180F8;
+  --color-button: #FFFFFF;
+  --card-primary-color: #FFFFFF;
+  --card-primary-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.05);
+}
+
+body {
+  @apply text-base overflow-x-hidden font-normal;
+  font-family: "Poppins", sans-serif;
+  flex-shrink: 0;
+  color: var(--text-color);
+  scrollbar-width: thin;
+  background-color: var(--background);
+}
+
+::-webkit-scrollbar {
+    width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #c5d3e0;
+    border-radius: 1.25rem;
+    border: 0.375rem solid transparent;
+    background-clip: content-box;
+}
+
+// *** INPUT ***
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active {
+    background-color: #F1F5F5 !important;
+    -webkit-box-shadow: 0 0 0 1000px #F1F5F5 inset !important;
+    -webkit-text-fill-color: #0C1040 !important;
+    -webkit-background-clip: text !important;
+    background-clip: text !important;
+    transition: background-color 600000s 0s, color 600000s 0s;
+}
