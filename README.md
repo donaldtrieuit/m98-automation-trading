@@ -39,28 +39,26 @@ Ensure you have the following installed:
 
 ### Installation
 1. **Clone the Repository**:
-> git clone https://github.com/donaldtrieuit/m98-automation-trading.git  
-> cd m98-automation-trading
+```bash 
+git clone https://github.com/donaldtrieuit/m98-automation-trading.git
+cd m98-automation-trading
+```
 2. **Install Dependencies**: Using npm:
-> npm install
-    
+```bash 
+npm install
 or
-
-> yarn install
+yarn install
+```
 3. **Configure Environment**:
 - Create a .env file in the root directory.  
 - Add the necessary environment variables, such as:
-
 > VITE_API_URL=http://localhost:5000/api
-
 4. **Run the Development Server**:
-
-> npm run dev
-
+```bash
+npm run dev
 or
-
-> yarn dev
-    
+yarn dev
+```
 The app will be available at http://localhost:5173 (default Vite port).
 
 ### Usage
