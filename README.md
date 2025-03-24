@@ -41,7 +41,8 @@ Ensure you have the following installed:
 
 ### Installation
 1. **Clone the Repository**:
-> git clone https://github.com/your-username/m98-automation-trading-platform.git cd m98-automation-trading-platform
+> git clone https://github.com/donaldtrieuit/m98-automation-trading.git  
+> cd m98-automation-trading
 2. **Install Dependencies**: Using npm:
 > npm install
     
