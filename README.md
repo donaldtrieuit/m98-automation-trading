@@ -5,6 +5,7 @@ Welcome to the **M98 Automation Trading Platform**! This repository contains the
 # Overview
 
 The M98 Automation Trading Platform frontend is designed to provide traders with an efficient and visually appealing interface to interact with trading automation tools. It connects to a backend (not included in this repository) to fetch real-time data, manage trades, and execute automated strategies. This project emphasizes performance, accessibility, and a smooth user experience.
+![Platform Screenshot](https://res.cloudinary.com/vickysoft/image/upload/v1742792112/images/m98/screencapture-localhost-5173-2025-03-24-10_33_18_frzg7f.png)
 ![Platform Screenshot](https://res.cloudinary.com/vickysoft/image/upload/v1742791794/images/m98/Screenshot_2025-03-24_at_10.36.14_AM_gxl8yx.png)
 
 ## Features
