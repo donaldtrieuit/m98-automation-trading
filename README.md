@@ -8,10 +8,6 @@ The M98 Automation Trading Platform frontend is designed to provide traders with
 
 ## Features
 
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
-## Switch to another file
-
 -   **Real-Time Dashboard**: View live market data and trading metrics.
 -   **Trade Automation Controls**: Easily configure and manage automated trading strategies.
 -   **Responsive Design**: Optimized for desktop, tablet, and mobile devices.
