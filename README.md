@@ -26,6 +26,7 @@ This frontend is built using the following tools and frameworks:
 -   **Axios**: Promise-based HTTP client for API requests.
 -   **MobX**: Simple and scalable state management solution.
 -   **Vite**: Next-generation frontend tooling for fast development and builds.
+- **Tailwind CSS**: Utility-first CSS framework for rapid and customizable styling.
 
 ## Getting Started
 
